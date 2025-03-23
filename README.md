@@ -32,7 +32,7 @@ This project focuses on the analysis and prediction of Continuous Glucose Monito
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/cgm-analysis.git
+    https://github.com/Qasim-Shah-73/Diabetes-Detection.git
     ```
 2. Install dependencies using pip:
     ```bash
